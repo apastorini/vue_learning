@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/apastorini/vue_learning.git",
-  "author": "Andres Pastorini <andres.pastorini@agesic.gub.uy>",
+  "author": "Andres Pastorini <andres_pastorini@epam.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.20.2",
